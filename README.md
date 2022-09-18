@@ -1,2 +1,2 @@
-# Projeto_conceitual_de_Banco_de_dados
+# Projeto_conceitual_DB_Universidade
 Projeto conceitual de banco de dados para uma Universidade, feito no MySQL Workbench
